@@ -22,7 +22,7 @@ Training data is loaded into three data frames: subject_train from subject_train
 
 Test data  is loaded into three data frames: subject_test from subject_test.txt, x_test from X_test.txt and y_test from y_test.txt.
 
-### Merging Trainin and Test Data Set
+### Merging Training and Test Data Set
 
 Training and test data sets are merged using rbind() into three data frames: subject, x and y. Column in subject is labeled subject, columns in x are labeled using features and column in y is labeled activity code.
 
