@@ -36,3 +36,5 @@ Subject, x_mean_std and y data frames were combined into a single data frame mea
 
 ### Creating tidy data set with the average of each variable for each activity and each subject
 
+Final tidy data set tidy_data is produced by calculating a mean of all relevant features, grouped by activity and subject. This tidy data set is then written into a file using write.table() with row.names=FALSE.
+
