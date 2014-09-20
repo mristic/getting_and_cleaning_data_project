@@ -32,7 +32,7 @@ Only features that are related to mean and standard deviation (std) were extract
 
 ### Reshaping the data frame
 
-Subject, x_mean_std and y data frames were combined into a single data frame mean_std_data. This was then modified into mean_std_data_activity data frame, to include activity labels ("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"), based on activity codes. Finally, activy codes were excluded as a column in the final data frame mean_std_data_final.
+Subject, x_mean_std and y data frames were combined into a single data frame mean_std_data. This was then modified into mean_std_data_activity data frame, to include activity labels ("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"), based on activity codes. Finally, activity codes were excluded as a column in the final data frame mean_std_data_final.
 
 ### Creating tidy data set with the average of each variable for each activity and each subject
 
