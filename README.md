@@ -1,7 +1,4 @@
-getting_and_cleaning_data_project
-=================================
-
-Course Project for Getting and Cleaning Data
+### Course Project for Getting and Cleaning Data
 
 Data set used in this project: Human Activity Recognition Using Smartphones
 
