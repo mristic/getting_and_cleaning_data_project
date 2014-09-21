@@ -45,7 +45,7 @@ fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value...
+mean(): Mean value ...
 std(): Standard deviation
 
 In the final data set, each of the 3-axial signals accounts for 3 variables for average value of mean plus 3 variables for average value of standard deviation. The rest of the signals account for 2 variables, one for average value of mean plus one for average value of standard deviation. The averages are calculated per activity, per subject.
